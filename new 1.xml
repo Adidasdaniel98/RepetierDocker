@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>Repetier-Server</Name>
+  <Repository>codeluxe1/repetier-server</Repository>
+  <Registry>https://hub.docker.com/repository/docker/codeluxe1/repetier-server</Registry>
+  <Network>br0</Network>
+  <MyIP>192.168.178.81</MyIP>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project>https://www.repetier-server.com/</Project>
+  <Overview/>
+  <Category>HomeAutomation: Tools: MediaServer:Other Network:Web</Category>
+  <WebUI>http://[IP:3344]</WebUI>
+  <TemplateURL/>
+  <Icon>https://brands.home-assistant.io/_/repetier/logo.png</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1614800195</DateInstalled>
+  <DonateText/>
+  <DonateLink>https://order.shareit.com/cart/add?vendorid=200190383&amp;amp;PRODUCT%5B300651007%5D=1&amp;amp;backlink=https%3A%2F%2Fwww.repetier-server.com%2Fdownload-repetier-server%2F</DonateLink>
+  <Description/>
+  <Networking>
+    <Mode>br0</Mode>
+    <Publish/>
+  </Networking>
+  <Data/>
+  <Environment/>
+  <Labels/>
+</Container>
