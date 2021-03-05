@@ -17,7 +17,7 @@
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1614800195</DateInstalled>
+  <DateInstalled>1614962373</DateInstalled>
   <DonateText/>
   <DonateLink>https://order.shareit.com/cart/add?vendorid=200190383&amp;amp;PRODUCT%5B300651007%5D=1&amp;amp;backlink=https%3A%2F%2Fwww.repetier-server.com%2Fdownload-repetier-server%2F</DonateLink>
   <Description/>
@@ -28,4 +28,5 @@
   <Data/>
   <Environment/>
   <Labels/>
+  <Config Name="Host Device 1" Target="" Default="" Mode="" Description="Container Device: " Type="Device" Display="always" Required="false" Mask="false">/dev/ttyUSB0</Config>
 </Container>
