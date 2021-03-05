@@ -9,7 +9,14 @@
   <Privileged>false</Privileged>
   <Support/>
   <Project>https://www.repetier-server.com/</Project>
-  <Overview/>
+  <Overview>Repetier server:&#xD;
+&#xD;
+Connect the 3D printer to the server.&#xD;
+Control the 3D printer (s) via an interface.&#xD;
+Upload files and print directly&#xD;
+Connect the webcam and view it while you are on the move.&#xD;
+Start a new print.&#xD;
+Update firmware from printer</Overview>
   <Category>HomeAutomation: Tools: MediaServer:Other Network:Web</Category>
   <WebUI>http://[IP:3344]</WebUI>
   <TemplateURL/>
@@ -17,10 +24,17 @@
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1614962373</DateInstalled>
+  <DateInstalled>1614963195</DateInstalled>
   <DonateText/>
   <DonateLink>https://order.shareit.com/cart/add?vendorid=200190383&amp;amp;PRODUCT%5B300651007%5D=1&amp;amp;backlink=https%3A%2F%2Fwww.repetier-server.com%2Fdownload-repetier-server%2F</DonateLink>
-  <Description/>
+  <Description>Repetier server:&#xD;
+&#xD;
+Connect the 3D printer to the server.&#xD;
+Control the 3D printer (s) via an interface.&#xD;
+Upload files and print directly&#xD;
+Connect the webcam and view it while you are on the move.&#xD;
+Start a new print.&#xD;
+Update firmware from printer</Description>
   <Networking>
     <Mode>br0</Mode>
     <Publish/>
