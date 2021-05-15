@@ -6,7 +6,7 @@ ARG VERSION="1.0.3"
 LABEL maintainer="info@d-eubel.de"
 LABEL version="v${VERSION}"
 
-ADD http://download.repetier.com/files/server/debian-amd64/Repetier-Server-${VERSION}-Linux.deb repetier-server.deb
+ADD http://download.repetier.com/files/server/debian-amd64hf/Repetier-Server-${VERSION}-Linux.deb repetier-server.deb
 
 RUN dpkg --unpack repetier-server.deb \
     && rm -rf repetier-server.deb
